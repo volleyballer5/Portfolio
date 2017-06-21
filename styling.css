@@ -71,12 +71,21 @@
   font-size:120%;
 }
 
+#four {
+  background-color:rgb(255, 178, 241);
+  margin-left:2%;
+  margin-right:2%;
+  text-align:center;
+  color:black;
+  font-size:120%;
+}
+
 #crea {
   margin-left:2%;
   margin-right:2%;
   background-color:rgb(255, 255, 81);
   text-align:center;
-  padding-bottom:10px;
+  padding-bottom:130px;
   color:black;
   font-size:120%;
 }
