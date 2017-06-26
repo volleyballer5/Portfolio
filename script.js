@@ -8,7 +8,7 @@ function openTab(section,elmnt,color) {
     for (i = 0; i < tablinks.length; i++) {
         tablinks[i].style.backgroundColor = "";
     }
-    document.getElementById(section).style.display = "block";
+    document.getElementById().style.display = "block";
     elmnt.style.backgroundColor = color;
 
 }
