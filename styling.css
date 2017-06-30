@@ -18,6 +18,15 @@
   padding-bottom: 1px;
 }
 
+#org {
+  background-color:rgb(0, 255, 92);
+  margin-left:2%;
+  margin-right:2%;
+  text-align:center;
+  color:black;
+  font-size:120%;
+}
+
 #cr {
   background-color:rgb(255, 159, 178);
   margin-left:2%;
@@ -54,15 +63,6 @@
   font-size:120%
 }
 
-#org {
-  background-color:rgb(0, 255, 92);
-  margin-left:2%;
-  margin-right:2%;
-  text-align:center;
-  color:black;
-  font-size:120%;
-}
-
 #fav {
   background-color:rgb(200,200,200);
   margin-left:2%;
@@ -86,7 +86,7 @@
   margin-right:2%;
   background-color:rgb(255, 255, 81);
   text-align:center;
-  padding-bottom:130px;
+  padding-bottom:500px;
   color:black;
   font-size:120%;
 }
